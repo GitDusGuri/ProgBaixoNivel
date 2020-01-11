@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491566411 source:/home/10049190/progbn/leitorPGM/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567786681 source:/home/10049190/pbn/leitorPGM/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
